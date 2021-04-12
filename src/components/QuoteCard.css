@@ -11,6 +11,7 @@
   .QuoteCard img {
     max-width: 100px;
     margin-right: 1.5rem;
+    object-fit: contain;
   }
   
   .QuoteCard cite {
